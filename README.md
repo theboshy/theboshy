@@ -1,11 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/loop-dark.svg">
-  <img alt="Isometric diagram of a loop: design, build, ship, observe, learn." src="assets/loop-light.svg" width="640">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/loop-dark.svg">
+    <img alt="Isometric diagram of a loop: design, build, ship, observe, learn." src="assets/loop-light.svg" width="640">
+  </picture>
+</div>
 
-### Hi, I'm Peter 👋
+### Hi, I'm boshy
 
-Senior Software Engineer at MercadoLibre, based in Bogotá. 9+ years building APIs, distributed systems and AI-integrated platforms across fintech, cybersecurity, e-commerce and logistics. Mostly backend, often leading the design.
+Senior Software Engineer based in Bogotá. 9+ years building APIs, distributed systems and AI-integrated platforms across fintech, cybersecurity, e-commerce and logistics. Mostly backend, often leading the design.
 
 **[theboshy.github.io](https://theboshy.github.io)** · [LinkedIn](https://linkedin.com/in/peter-lobo) · [Stack Overflow](https://es.stackoverflow.com/users/9206/theboshy) · petergldev@gmail.com
 
